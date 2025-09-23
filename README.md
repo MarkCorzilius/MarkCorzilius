@@ -1,4 +1,4 @@
-<h1 style="font-size: 64px" align="left">Hey there, I am Mark 👀</h1>
+<h1 style="font-size: 56px !important" align="left">Hey there, I am Mark 👀</h1>
 
 ###
 
