@@ -50,7 +50,7 @@
 
 ###
 
-<p align="left">Grow into a Full-Stack Developer within the next 1,5 years</p>
+<p align="left">Grow into a Fullstack Developer by 2027</p>
 
 ###
 
